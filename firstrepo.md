@@ -1,2 +1,2 @@
-This is the read as file is
+This is the read as file
 My first commit 
